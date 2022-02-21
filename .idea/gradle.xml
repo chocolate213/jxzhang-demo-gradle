@@ -9,6 +9,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/jxzhang-demo-gradle-project" />
+            <option value="$PROJECT_DIR$/jxzhang-demo-gradle-project/jxzhang-demo-gradle-common" />
+            <option value="$PROJECT_DIR$/jxzhang-demo-gradle-project/jxzhang-demo-gradle-core" />
           </set>
         </option>
       </GradleProjectSettings>

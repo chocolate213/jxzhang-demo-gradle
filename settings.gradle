@@ -1,2 +1,4 @@
 rootProject.name = 'jxzhang-demo-gradle'
 
+include('jxzhang-demo-gradle-project:jxzhang-demo-gradle-common')
+include('jxzhang-demo-gradle-project:jxzhang-demo-gradle-core')
